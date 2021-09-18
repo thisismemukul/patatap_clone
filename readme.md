@@ -1,6 +1,6 @@
 # patatap_clone
 <p align="center">
-<a href="#"><img title="patatap_clone Demo" src="https://github.com/thisismemukul/patatap_clone/blob/main/assets/img/papatap.png"></a>
+<a href="#"><img title="patatap_clone Demo" src="https://github.com/thisismemukul/patatap_clone/blob/main/assets/img/patatap.gif"></a>
 </p>
 This patatap website's clone made using Javascript libraries Howler.js and paper.js:
 Users have to press any key between A to Z, and can enjoy this awesome website clone.
